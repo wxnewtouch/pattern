@@ -7,8 +7,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="factory-pattern" />
+        <module name="interviewOfHash" />
         <module name="abstract-factory-pattern" />
+        <module name="factory-pattern" />
       </profile>
     </annotationProcessing>
   </component>
